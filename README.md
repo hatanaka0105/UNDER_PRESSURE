@@ -1,7 +1,7 @@
 # UNDER_PRESSURE
 大学3年で開発に携わったパズルアクションゲームです。  
-チームメンバーは10人
-このゲームは2017年度の日本ゲーム大賞アマチュア部門にて最終選考まで残りました。  
+チームメンバーは10人  
+このゲームは2017年度の日本ゲーム大賞アマチュア部門に応募し最終選考まで残りました。  
 
 This is a puzzle-action game that I was involved in developing during my third year of university.  
 The game advanced to the final round of the Japan Game Awards 2017: Amateur Division.
