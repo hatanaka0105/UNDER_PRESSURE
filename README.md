@@ -9,7 +9,7 @@ The game advanced to the final round of the Japan Game Awards 2017: Amateur Divi
 このゲームはMicrosoftがかつて公開していたXNA Game Studioというフレームワークを使用して開発したため、事前に実行用フレームワークのインストールが必要になります。  
 1.以下のサイトからMicrosoft XNA Framework Redistributable 4.0の「Download」ボタンを押下してください。  
 https://www.microsoft.com/en-us/download/details.aspx?id=20914  
-2.インストーラーがDLできたら実行し、FrameWorkのインストールが完了するまで待ちます。  
+2.インストーラーがDLできたら実行し、インストールが完了するまで待ちます。  
 3.当リポジトリをZipでダウンロード後解凍もしくはClone後、setup.exeを実行してください。  
 初回のインストールが終了した後はUNDER_PRESSURE.applicationからでも実行できます。  
 
